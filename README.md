@@ -41,7 +41,8 @@ def gcd():
 
 
 ## Output:
-![GCD-of-two-numbers](https://github.com/vatsan143/GCD-of-two-numbers/assets/147368204/b9416cc6-3c15-44b6-b6dd-afce6473ab04)
+![GCD-of-two-numbers](https://github.com/vatsan143/GCD-of-two-numbers/assets/147368204/304e44bd-2e2b-4116-abad-e71668f9d690)
+
 
 
 
